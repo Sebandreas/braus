@@ -9,6 +9,7 @@ I am hoping to implement the following functionality into this web browser, incl
  - The ability to create addons for the browser
  - Customisable search engines (like in IE7+, FF, et cetera)
  - Functionality similar to Foxyproxy, but built-in to the browser.
+ - Port functionality from http://goo.gl/yzs7g to Visual Basic and implement somehow :3
  - Other things I'll come up with and list in the readme.
  - Implementation of the Visual Basic spellcheck script (i00 spellcheck, http://goo.gl/aHqXQ) in the context of webbrowser.
  - <i>Possibly</i> replace vanilla webbrowser control with a modified version of this: http://goo.gl/QLFR3
