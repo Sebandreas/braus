@@ -6,7 +6,9 @@ but will show what is possible in VB.net. Based off of code from Gep13's tabbed 
 browser, and some other sample codes from other places around the internet.
 
 I am hoping to implement the following functionality into this web browser, including, and not limited to the following:
- - Live, changing of rendering engines (currently between Trident and Webkit). Like Maxthon, I guess.
+ - Live, changing of rendering engines (between Trident, Webkit, and Gecko). Implemented in the sloppiest way possible,
+ but I don't really care tbh.
+
  - The ability to manage favourites (Gep13, you're a genius)
  - The ability to create addons for the browser. This is quite easy to do, actually.
  - Customisable search engines (like in IE7+, FF, et cetera)
